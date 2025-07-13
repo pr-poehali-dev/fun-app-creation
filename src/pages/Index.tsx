@@ -112,7 +112,7 @@ const Index = () => {
             <div className="text-6xl mb-4 animate-pulse">
               {getPetEmoji()}
             </div>
-            <h3 className="font-game text-2xl text-gray-800 mb-2">Пушистик</h3>
+            <h3 className="font-game text-2xl text-gray-800 mb-2">Лохматик</h3>
             {lastAction && (
               <p className="text-sm text-purple-600 animate-fade-in">{lastAction}</p>
             )}
